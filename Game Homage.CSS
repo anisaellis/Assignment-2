@@ -39,7 +39,23 @@ img{
   height:300px;
   flex-wrap: wrap;
 }
+.flex-container brands{
 
+}
+.bottom{
+
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #696969;
+}
+.flex-container footer{
+text-align:center;
+display:flex;
+flex-direction: row;
+padding-left: 50px; 
+padding-right: 50px;
+column-gap:50px;
+}
 <!--End of page 1-->
 .Header{
   height:200px;
