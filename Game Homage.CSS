@@ -5,6 +5,7 @@
   text-align:center;
   padding-left: 50px;
   padding-right: 50px;
+  font-family:Copperplate, Gothic Light;
 }
 
 .flex-container{
@@ -13,20 +14,21 @@ flex-direction: row;
 padding-left: 50px; 
 padding-right: 50px;
 column-gap:50px;
+font-family:Constantia;
 }
 .Title{
    text-align:center;
    padding-bottom: 100px;
   background-color: #F20505;
   color:white;
-font-family: impact;
+font-family: Copperplate Gothic, Bold;
 }
 .Intro{
    text-align:left;
   padding-bottom: 100px;
   background-color: #049DD9;
    color:white;
-  font-family:Roboto Condensed;
+  font-family:Copperplate Gothic, Bold;
 }
 .Intro p{
    text-align:center;
@@ -38,6 +40,7 @@ font-family: impact;
   column-gap: 25px;
   row-gap: 25px;
   background-color:#EAF205;
+  font-family:Copperplate Gothic, Bold;
 }
 
 article{
@@ -82,11 +85,12 @@ footer{
    padding-bottom: 100px;
    background-color: #F28705;
    color:white;
-   font-family: impact;
+   font-family: Copperplate Gothic, Bold;
 }
 .Magnavox{
 	background-color: #F20505;
 	 color:white;
+	 font-family: Copperplate Gothic, Bold;
 }
 .flex-container odyssey{
   width:100px;
@@ -95,6 +99,7 @@ footer{
 }
 .flex-container odyssey p{
   text-align:center;
+  font-family: Copperplate Gothic, Bold;
 }
 .flex-container odyssey img{
   width:100px;
@@ -104,10 +109,12 @@ footer{
 .Pong{
 	background-color: #F20505;
 	 color:white;
+	 font-family: Copperplate Gothic, Bold;
 }
 .Telstar{
 background-color: #F20505;
  color:white;
+ font-family: Copperplate Gothic, Bold;
 }
 <!--End of page 2-->
 
@@ -127,27 +134,31 @@ column-gap:50px;
    text-align:center;
    padding-bottom: 100px;
    background-color:#EAF205;
-   font-family: impact;
+   font-family: Copperplate Gothic, Bold;
 
 }
 .FairchildChannelF{
 	background-color: #049DD9;
 	 color:white;
+	 font-family: Copperplate Gothic, Bold;
 }
 
 .Atari2600{
 	background-color: #049DD9;
 	 color:white;
+	 font-family: Copperplate Gothic, Bold;
 }
 
 .Intellivision{
 	background-color: #049DD9;
 	 color:white;
+	 font-family: Copperplate Gothic, Bold;
 
 }
 .ColecoVision{
 	background-color: #049DD9;
 	 color:white;
+	 font-family: Copperplate Gothic, Bold;
 }
 <!--End of page 3-->
 .Header{
@@ -166,6 +177,7 @@ column-gap:50px;
    text-align:center;
    padding-bottom: 100px;
    background-color:#EAF205;
+   font-family: Copperplate Gothic, Bold;
 }
 
 img {
